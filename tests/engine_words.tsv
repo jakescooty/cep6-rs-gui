@@ -1,0 +1,339 @@
+# The engine's words for each sentence, captured through SAPI + Frida by
+# _fe/fe_capture.py and written by _fe/export_tsv.py. Do not edit.
+https://www.wslfradio.org/apps/ipawsarchive. 02/17/2026 at 12:40 PM	h t t p s colon slash slash www dot w s l f r _a d i o dot org / apps / ipawsarchive february seventeenth two thousand twenty six at twelve forty p m
+Visit https://www.example.com/path/to/page for details.	visit h t t p s colon slash slash www dot example dot com / path / t o / page for details
+Go to http://example.com now.	go to h t t p colon slash slash example dot com now
+See www.weather.gov for updates.	see www dot weather dot gov for updates
+Check weather.gov/alerts today.	check weather dot gov / alerts today
+Download from ftp://files.example.org/pub/data.zip please.	download from f t p colon slash slash files dot example dot org / pub / data dot zip please
+The site is example.com.	the site is example dot com
+Email me at john.smith@example.com today.	email me at john dot smith @ example dot com today
+Go to https://www.fema.gov/emergency-alert-system.	go to h t t p s colon slash slash www dot fema dot gov / emergency alert system
+The meeting is on 02/17/2026 at noon.	the meeting is on february seventeenth two thousand twenty six at noon
+It happened 2/7/26 in the morning.	it happened february seventh twenty six in the morning
+Due 12-25-2025 at the latest.	due december twenty fifth two thousand twenty five at the latest
+Born 1/1/2000 somewhere.	born january first two thousand somewhere
+The code 13/40/2020 is not a date.	the code thirteen / forty / two thousand twenty is not a date
+Expires 02/17 this year.	expires oh two / seventeen this year
+Effective until 10:22 AM FEB 2, 2017.	effective until ten twenty two _a m february second two thousand seventeen
+We drove to Springfield, IL 62701 yesterday.	we drove to springfield illinois six two seven zero one yesterday
+We drove to Springfield, IL and then home.	we drove to springfield illinois and then home
+Stops at Peoria, IL, Springfield, IL, and Joliet, IL.	stops at peoria il springfield illinois and joliet illinois
+We drove to Springfield IL.	we drove to springfield illinois
+Portland, OR	portland oregon
+Ottawa, ON K1A 0B1 is the address.	ottawa ontario k one _a zero b one is the address
+Set the OR gate high.	set the or gate high
+Log in IN the morning.	log in in the morning
+Canton, OH 44702-1234 is next.	canton oh four four seven zero two one two three four is next
+Counties of Adams, CO, Denver, CO, and Boulder, CO.	counties of adams co denver colorado and boulder colorado
+A tornado warning for Cook County, IL until 5:00 PM.	a tornado warning for cook county illinois until five p m
+Meet at 12:40 PM sharp.	meet at twelve forty p m sharp
+Meet at 3:05 today.	meet at three oh five today
+The time was 12:40:15 exactly.	the time was twelve : forty : fifteen exactly
+Dinner at 5.30pm tonight.	dinner at five thirty p m tonight
+Leave at 7:52 AM.	leave at seven fifty two _a m
+Call 555-1234 now.	call five five five one two three four now
+Call (555) 555-1234 now.	call five five five five five five one two three four now
+Call 1-800-555-1234 now.	call one eight hundred five five five one two three four now
+Call 800.555.1234 now.	call eight hundred five five five one two three four now
+Mail it to 12345-6789 please.	mail it to one two three four five six seven eight nine please
+Dial 9-1-1 for help.	dial nine one one for help
+Call 911 now.	call nine hundred eleven now
+It costs $5.25 each.	it costs five dollars twenty five cents each
+It costs $1,250,000 total.	it costs one million two hundred fifty thousand dollars total
+Add 3/4 cup of flour.	add three fourth 's cup of flour
+Add 1-3/4 cups of flour.	add one and three fourth 's cups of flour
+He finished 21st and 3RD.	he finished twenty first and third
+Henry VIII and Chapter IV.	henry the eighth and chapter four
+Call ext. 1234 or x123.	call ext one thousand two hundred thirty four or x one twenty three
+Back in the 1990s and 90s.	back in the nineteen ninety 's and ninety 's
+We are #1 again.	we are number one again
+That is 5 million people.	that is five million people
+The offset is +0500 today.	the offset is + zero five zero zero today
+Ratio of 1:1 here.	ratio of one to one here
+The temperature is -5 degrees.	the temperature is minus five degrees
+It is 98.6 degrees.	it is ninety eight point six degrees
+Pi is 3.14159 roughly.	pi is three point one four one five nine roughly
+Lot 1234 on the map.	lot one thousand two hundred thirty four on the map
+Dr. Smith lives on Main St.	doctor smith lives on main street
+The NWS and the EAS and FEMA.	the n w s and the eas and fema
+The iPhone and McDonald and YouTube.	the iphone and mc donald and you tube
+Rooms 2BR and 3BA and UK1.	rooms two b r and three b _a and uk one
+*** and --- here.	and here
+We drove to Springfield, AL.	we drove to springfield alabama
+We drove to Springfield, Al.	we drove to springfield alabama
+We drove to Springfield, Ala.	we drove to springfield alabama
+We drove to Springfield, AK.	we drove to springfield alaska
+We drove to Springfield, Ak.	we drove to springfield alaska
+We drove to Springfield, AS.	we drove to springfield arkansas
+We drove to Springfield, AZ.	we drove to springfield arizona
+We drove to Springfield, Az.	we drove to springfield arizona
+We drove to Springfield, CA.	we drove to springfield california
+We drove to Springfield, Ca.	we drove to springfield california
+We drove to Springfield, Cal.	we drove to springfield california
+We drove to Springfield, Calif.	we drove to springfield california
+We drove to Springfield, CO.	we drove to springfield colorado
+We drove to Springfield, Co.	we drove to springfield company
+We drove to Springfield, Colo.	we drove to springfield colorado
+We drove to Springfield, CT.	we drove to springfield connecticut
+We drove to Springfield, DC.	we drove to springfield d c
+We drove to Springfield, DE.	we drove to springfield delaware
+We drove to Springfield, De.	we drove to springfield delaware
+We drove to Springfield, Del.	we drove to springfield delaware
+We drove to Springfield, FL.	we drove to springfield florida
+We drove to Springfield, Fl.	we drove to springfield florida
+We drove to Springfield, Fla.	we drove to springfield florida
+We drove to Springfield, GA.	we drove to springfield georgia
+We drove to Springfield, Ga.	we drove to springfield georgia
+We drove to Springfield, HI.	we drove to springfield hawaii
+We drove to Springfield, Hi.	we drove to springfield hawaii
+We drove to Springfield, IA.	we drove to springfield iowa
+We drove to Springfield, Ia.	we drove to springfield iowa
+We drove to Springfield, ID.	we drove to springfield i d
+We drove to Springfield, IL.	we drove to springfield illinois
+We drove to Springfield, Il.	we drove to springfield illinois
+We drove to Springfield, ILL.	we drove to springfield illinois
+We drove to Springfield, IN.	we drove to springfield indiana
+We drove to Springfield, Ind.	we drove to springfield indiana
+We drove to Springfield, KS.	we drove to springfield kansas
+We drove to Springfield, Ks.	we drove to springfield kansas
+We drove to Springfield, Kans.	we drove to springfield kansas
+We drove to Springfield, KY.	we drove to springfield kentucky
+We drove to Springfield, Ky.	we drove to springfield kentucky
+We drove to Springfield, LA.	we drove to springfield louisiana
+We drove to Springfield, La.	we drove to springfield louisiana
+We drove to Springfield, Lou.	we drove to springfield louisiana
+We drove to Springfield, Lous.	we drove to springfield louisiana
+We drove to Springfield, MA.	we drove to springfield massachusetts
+We drove to Springfield, Mass.	we drove to springfield massachusetts
+We drove to Springfield, Ma.	we drove to springfield massachusetts
+We drove to Springfield, MD.	we drove to springfield maryland
+We drove to Springfield, Md.	we drove to springfield maryland
+We drove to Springfield, ME.	we drove to springfield maine
+We drove to Springfield, Me.	we drove to springfield maine
+We drove to Springfield, MH.	we drove to springfield marshall islands
+We drove to Springfield, MI.	we drove to springfield michigan
+We drove to Springfield, Mi.	we drove to springfield michigan
+We drove to Springfield, Mich.	we drove to springfield michigan
+We drove to Springfield, MN.	we drove to springfield minnesota
+We drove to Springfield, Minn.	we drove to springfield minnesota
+We drove to Springfield, MS.	we drove to springfield m s
+We drove to Springfield, Miss.	we drove to springfield mississippi
+We drove to Springfield, MT.	we drove to springfield montana
+We drove to Springfield, Mt.	we drove to springfield montana
+We drove to Springfield, MO.	we drove to springfield missouri
+We drove to Springfield, Mo.	we drove to springfield missouri
+We drove to Springfield, NC.	we drove to springfield north carolina
+We drove to Springfield, ND.	we drove to springfield north dakota
+We drove to Springfield, NE.	we drove to springfield nebraska
+We drove to Springfield, Ne.	we drove to springfield nebraska
+We drove to Springfield, Neb.	we drove to springfield nebraska
+We drove to Springfield, NH.	we drove to springfield new hampshire
+We drove to Springfield, NJ.	we drove to springfield new jersey
+We drove to Springfield, NM.	we drove to springfield new mexico
+We drove to Springfield, NV.	we drove to springfield nevada
+We drove to Springfield, Nev.	we drove to springfield nevada
+We drove to Springfield, NY.	we drove to springfield new york
+We drove to Springfield, OH.	we drove to springfield ohio
+We drove to Springfield, OK.	we drove to springfield oklahoma
+We drove to Springfield, Okla.	we drove to springfield oklahoma
+We drove to Springfield, OR.	we drove to springfield oregon
+We drove to Springfield, Or.	we drove to springfield oregon
+We drove to Springfield, Ore.	we drove to springfield oregon
+We drove to Springfield, PA.	we drove to springfield pennsylvania
+We drove to Springfield, Pa.	we drove to springfield pennsylvania
+We drove to Springfield, Penn.	we drove to springfield pennsylvania
+We drove to Springfield, PR.	we drove to springfield puerto rico
+We drove to Springfield, PW.	we drove to springfield palau
+We drove to Springfield, RI.	we drove to springfield rhode island
+We drove to Springfield, SC.	we drove to springfield south carolina
+We drove to Springfield, SD.	we drove to springfield south dakota
+We drove to Springfield, TN.	we drove to springfield tennessee
+We drove to Springfield, Tn.	we drove to springfield tennessee
+We drove to Springfield, Tenn.	we drove to springfield tennessee
+We drove to Springfield, TX.	we drove to springfield texas
+We drove to Springfield, Tx.	we drove to springfield texas
+We drove to Springfield, Tex.	we drove to springfield texas
+We drove to Springfield, UT.	we drove to springfield utah
+We drove to Springfield, VA.	we drove to springfield virginia
+We drove to Springfield, VI.	we drove to springfield v i
+We drove to Springfield, WA.	we drove to springfield washington
+We drove to Springfield, Wa.	we drove to springfield washington
+We drove to Springfield, Wash.	we drove to springfield washington
+We drove to Springfield, WI.	we drove to springfield wisconsin
+We drove to Springfield, Wi.	we drove to springfield wisconsin
+We drove to Springfield, WV.	we drove to springfield west virginia
+We drove to Springfield, WY.	we drove to springfield wyoming
+We drove to Springfield, Wy.	we drove to springfield wyoming
+We drove to Springfield, Wyo.	we drove to springfield wyoming
+We drove to Springfield, AB.	we drove to springfield alberta
+We drove to Springfield, Alta.	we drove to springfield alberta
+We drove to Springfield, MB.	we drove to springfield manitoba
+We drove to Springfield, NB.	we drove to springfield new brunswick
+We drove to Springfield, NL.	we drove to springfield newfoundland
+We drove to Springfield, NS.	we drove to springfield nova scotia
+We drove to Springfield, NU.	we drove to springfield nunavut
+We drove to Springfield, ON.	we drove to springfield ontario
+We drove to Springfield, Ont.	we drove to springfield ontario
+We drove to Springfield, PE.	we drove to springfield prince-edward island
+We drove to Springfield, PEI.	we drove to springfield prince-edward island
+We drove to Springfield, QC.	we drove to springfield quebec
+We drove to Springfield, Que.	we drove to springfield quebec
+We drove to Springfield, Sask.	we drove to springfield saskatchewan
+We drove to Springfield, SK.	we drove to springfield saskatchewan
+We drove to Springfield, YT.	we drove to springfield yukon territory
+He said zzzzz loudly.	he said five z 's loudly
+Rate it ***** now.	rate it five * 's now
+King Henry VIII and Louis XIV were there.	king henry the eighth and louis the fourteenth were there
+The King Henry XII of Spain.	the king henry the twelfth of spain
+Mac OS X is here.	mac os ten is here
+Part II, Act III, Scene V.	part two act three scene five
+Rocky II and World War II.	rocky i i and world war two
+We need VI and XI now.	we need v i and x i now
+Chapter XIV begins.	chapter fourteen begins
+Say IV, then XX now.	say i v then x x now
+The XXXX mark and III and IIII.	the x x x x mark and i i i and iiii
+Otero, NM	otero new mexico
+PM	p m
+the FBI said	the fbi said
+Otero	otero
+NASA said	nasa said
+DEC 3, 2025	december third two thousand twenty five
+on JAN 1, 1984	on january first nineteen eighty four
+in 1905	in nineteen oh five
+in 1900	in nineteen hundred
+in 2000	in two thousand
+at 12:00 PM	at twelve p m
+at 12:30	at twelve thirty
+at 9:05	at nine oh five
+2025 apples	two thousand twenty five apples
+5000 apples	five thousand apples
+$1200	one thousand two hundred dollars
+$1	one dollar
+3.5%	three point five percent
+100%	one hundred percent
+the 21st	the twenty first
+911	nine hundred eleven
+at 12:00	at twelve
+007	zero zero seven
+It was 2025. Then 3.5 more.	it was two thousand twenty five then three point five more
+counties or areas: Otero	counties or areas otero
+ratio 3:1	ratio three to one
+at 3:15	at three fifteen
+A civil authority has issued A 911 TELEPHONE OUTAGE EMERGENCY for the following counties or areas: Otero, NM; at 12:00 PM on DEC 3, 2025. Effective until 12:00 PM DEC 4, 2025.	a civil authority has issued a nine one one telephone outage emergency for the following counties or areas otero new mexico at twelve p m on december third two thousand twenty five effective until twelve p m december fourth two thousand twenty five
+Call 800-1234 today.	call eight zero zero one two three four today
+Call 900.555.1234 today.	call nine hundred five five five one two three four today
+Call 1.800.555.1234 today.	call one eight hundred five five five one two three four today
+Call 18005551234 today.	call eighteen billion five million five hundred fifty one thousand two hundred thirty four today
+Call (555)555-1234 today.	call five five five five five five one two three four today
+Call 555.555.1234 today.	call five five five five five five one two three four today
+Call 555 555 1234 today.	call five five five five five five one two three four today
+Call 555 1234 today.	call five hundred fifty five one two three four today
+Call 1 555 555 1234 today.	call one five hundred fifty five five hundred fifty five one two three four today
+Call 555-1234 ext 22 today.	call five five five one two three four extension twenty two today
+Call 555-1234 x22 today.	call five five five one two three four extension twenty two today
+Call 555-1234 ext. 22 today.	call five five five one two three four extension twenty two today
+It's 12:00 now.	it 's twelve o'clock now
+It's 12:00 o'clock now.	it 's twelve o'clock now
+Meet at 7.30 pm tonight.	meet at seven thirty p m tonight
+Meet at 7.30 tonight.	meet at seven point three zero tonight
+Meet at 12:40pm tonight.	meet at twelve forty p m tonight
+Meet at 23:15 tonight.	meet at twenty three : fifteen tonight
+The time was 12:40:01 PM exactly.	the time was twelve forty and one second p m exactly
+The time was 12:40:30 EST exactly.	the time was twelve forty and thirty seconds e s t exactly
+Logged at 12:40:15 -0500 today.	logged at twelve forty and fifteen seconds minus zero five hundred today
+Mix it 3:1 or 3:2 please.	mix it three to one or three : two please
+Call 1-2-3-4 now.	call one two three four now
+In '07 we left.	in oh seven we left
+We saw 25000 birds.	we saw twenty five thousand birds
+We saw 12345 birds.	we saw one two three four five birds
+Born 3 March 1999 there.	born the third of march nineteen ninety nine there
+Born March 3 1999 there.	born march third nineteen ninety nine there
+On Interstate 405 north.	on interstate four oh five north
+In 1066 and 1776 and 2001.	in one thousand sixty six and seventeen seventy six and two thousand one
+Box 42, PO Box 7 here.	box forty two p o box seven here
+It is 6 ft tall.	it is six feet tall
+It is 1 ft wide.	it is one foot wide
+It is 1/2 ft wide.	it is a half foot wide
+Fort Worth, Ft. Worth here.	fort worth ft worth here
+Run 5km today.	run five kilometers today
+Run 5 km today.	run five kilometers today
+Run 1km today.	run one kilometer today
+Run 2.5km today.	run two point five kilometers today
+It weighs 1/2 lb now.	it weighs a half pound now
+It weighs 12oz now.	it weighs twelve ounces now
+Drive 55 mph now.	drive fifty five miles per hour now
+Tune to 88 kHz now.	tune to eighty eight kilohertz now
+It is 5 in tall.	it is five inches tall
+Put it in the box.	put it in the box
+It is 5 in.	it is five in
+Two sq in of space.	two sq inches of space
+Take I-95 or US-66 south.	take i ninety five or u s sixty six south
+Suite at 100 Main Ste 4B.	suite at one hundred main suite four b
+Ste Marie was there.	saint marie was there
+Dr. Smith lives on Elm St.	doctor smith lives on elm street
+St. Louis is on Main St. now.	saint louis is on main street now
+Go to Main St and turn.	go to main street and turn
+He met Dr Jones today.	he met doctor jones today
+Turn onto Oak Ave, then Elm Blvd.	turn onto oak avenue then elm boulevard
+Meet at 12 Oak Ct.	meet at twelve oak court
+Oak Ave is closed.	oak ave is closed
+The CIA and the NSA and the AMA.	the cia and the nsa and the _a m _a
+Mr Smith and Mrs Jones and Ms Brown.	mr smith and mrs jones and mizz brown
+Acme Ltd vs Acme Dept etc.	acme limited versus acme department etc
+He has 20/20 vision, open 24/7.	he has twenty twenty vision open twenty-four seven
+Tel: 555-1234 and Ph: 555-9876.	telephone five five five one two three four and phone five five five nine eight seven six
+I have read it. You read it. They read it.	i have red it you red it they red it
+He does. Does not. What does it do?	he duzz duzz not what duzz it do
+It was supposed to. The supposed cure.	it was suppost to the suppozid cure
+At 5:00 PM EST today.	at five p m e s t today
+In 1066 AD and AD 1066.	in one thousand sixty six _a d and _a d one thousand sixty six
+Hello :) and :( and :-)	hello smily and sigh and smily
+The price is >10 now.	the price is > ten now
+Item #5 and 5# of flour.	item number five and five pound of flour
+Temperatures - 5 and -5 today.	temperatures five and minus five today
+Wait... what -- really?	wait what -- really
+Go to 123 N Main St today.	go to one hundred twenty three north main street today
+Go to 45 SW Elm today.	go to forty five southwest elm today
+Signed J R R Tolkien here.	signed j r r tolkien here
+It fell -3.5 degrees, then 3. more.	it fell minus three point five degrees then three more
+He came 1st, 2nd, 3rd and 1,000th.	he came first second third and one thousandth
+It costs $5 million today.	it costs five million dollars today
+It costs £5 today.	it costs five pounds today
+It costs $1.01 today.	it costs one dollar one cent today
+It costs $.25 today.	it costs twenty five cents today
+It costs $5.5 today.	it costs five point five dollars today
+It costs $5.123 today.	it costs five point one two three dollars today
+It costs $1 today.	it costs one dollar today
+It costs $0.99 today.	it costs zero dollars ninety nine cents today
+It costs 5 USD today.	it costs five u s d today
+It costs USD5 today.	it costs five u s dollars today
+It costs US$5m today.	it costs five million u s dollars today
+It costs $5bn today.	it costs five billion dollars today
+It rose 1/2% today.	it rose a half of a percent today
+It rose 50% today.	it rose fifty percent today
+Back in the 1980s and 70s.	back in the nineteen eighty 's and seventy 's
+See No. 5 here.	see number five here
+It is James' book.	it is james book
+Visit http://Example.COM/To/Page now.	visit h t t p colon slash slash example dot com / t o / page now
+Drive 60 km/hr there.	drive sixty kilometers per hour there
+On Jan 5 and in Jan. And Mar 3.	on january fifth and in jan and march third
+On Mon 5 June, and Sun.	on monday the fifth of june and sun
+Copyright © 2020 here.	copyright copyright two thousand twenty here
+Send to SW1A 1AA today.	send to s w one _a one aa today
+We're here, you'll see, they'd go, it's fine.	we're here you'll see they'd go it 's fine
+The class of '99 and rock'n'roll.	the class of ninety nine and rocknroll
+Due 1-2-2020 or 13-1-2020.	due january second two thousand twenty or one three one two zero two zero
+Add 2 1/2 cups and 3/4 cup and 9/11.	add two and a half cups and three fourth 's cup and nine eleven
+Add 5/3 cups now.	add five slash three cups now
+Pages 10-20 and 5-2.	pages ten to twenty and five to two
+Zip 12345-6789 here.	zip one two three four five six seven eight nine here
+Born 17-Feb-2026 and 2026-Feb-17 and 17-Feb-05.	born february seventeenth two thousand twenty six and february seventeenth two thousand twenty six and february seventeenth oh five
+The well-known self-made man.	the well known self made man
+A --- B and a *** here.	a b and a here
+The ABCs and NWSs of it.	the _a b c 's and n w s 's of it
+Items AB12 and 12AB and a1b2.	items ab twelve and twelve ab and _a one b two
+The iPod and MacBook and PowerPoint.	the ipod and mac book and power point
+The x-ray and e-mail.	the x-ray and e mail
+It is 500 or 0500 or 1900 or 2000 or 2010.	it is five hundred or zero five zero zero or nineteen hundred or two thousand or two thousand ten
+A CIVIL AUTHORITY HAS ISSUED A LOCAL AREA EMERGENCY FOR THE FOLLOWING COUNTIES/AREAS: COBB, GA; DOUGLAS, GA; FULTON, GA; AT 9:26 PM ON SEP 18, 2026 EFFECTIVE UNTIL 9:26 PM SEP 19, 2026. MESSAGE FROM IPAWSWEA.	_a civil authority has issued _a local area emergency for the following counties / areas cobb georgia douglas georgia fulton georgia at nine twenty six p m on september eighteenth two thousand twenty six effective until nine twenty six p m september nineteenth two thousand twenty six message from ipawswea

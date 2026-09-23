@@ -1,0 +1,33 @@
+[package]
+name = "ceps"
+version = "0.1.0"
+edition = "2021"
+description = "Synthesizer for Cepstral Swift 6.2 voice databases"
+
+[lib]
+name = "ceps"
+path = "src/lib.rs"
+crate-type = ["rlib"]
+
+[[bin]]
+name = "cep6"
+path = "src/bin/ceps_dump.rs"
+
+[features]
+# Build the lexicon and the tagger into the binary so a copy sent to someone
+# else is one file plus their own voice. The library is deliberately not
+# involved.
+default = ["embed-packs"]
+embed-packs = []
+
+# No `panic = "abort"`: `cargo test --release` builds the library again with
+# unwinding for the test harness. The tests then linked against whichever
+# finished last and failed at random.
+[profile.release]
+opt-level = 3
+lto = true
+codegen-units = 1
+
+[[bin]]
+name = "ceps-hash"
+path = "src/bin/ceps_hash.rs"
