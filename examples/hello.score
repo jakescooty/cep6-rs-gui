@@ -1,0 +1,48 @@
+# "hello, this is a test" for Allison, hand-written.
+#
+#   ceps-dump C:\tmp\ceps\Allison speak examples\hello.score out.wav
+#
+# f0   <time_s> <hz>          point on the F0 contour
+# unit <type|#index> <end_s> [rescale]
+#
+# `end_s` is the segment end time; it becomes target_end in samples, so the
+# gaps between consecutive units are the durations.
+#
+# IMPORTANT: keep the contour near the voice's own recorded F0. Allison sits at
+# roughly 250-280 Hz. concat_units does not resample -- add_residual centre-pads
+# with zeros -- so asking for 185 Hz here stretches every period by 1.4x and
+# makes 29% of the excitation silence, which buzzes badly. Check the
+# "inserted silence" figure the CLI prints; under ~5% is healthy.
+#
+# The real engine escapes this constraint through unit selection: f0_weight in
+# the join cost pulls in candidates whose recorded F0 is already near the
+# target, so it can reach 150 Hz without stretching anything. Until selection
+# lands, stay inside the voice's natural range.
+
+lead_f0 270
+
+f0 0.00 272
+f0 0.35 278
+f0 0.80 262
+f0 1.30 250
+f0 1.90 240
+
+unit paustart  0.08
+unit heh       0.20
+unit eh1       0.34
+unit low       0.44
+unit ow1       0.62
+unit paumid    0.70
+
+unit dih       0.80
+unit ih1       0.88
+unit s         0.98
+unit ih0       1.05
+unit z         1.14
+unit ah0       1.22
+
+unit teh       1.34
+unit eh1       1.48
+unit s         1.60
+unit t         1.70
+unit pauend    1.90
